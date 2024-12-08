@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Chatterjee</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <h2>Current Pursuits</h2>
 <ul>
   <li>🔭 Currently working on <a href="#">AuroraCare</a></li>
@@ -227,6 +225,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyajit-chatterjee&theme=tokyonight" alt="soumyajit-chatterjee" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/soumyajit_devs" target="blank"><img src="https://img.shields.io/twitter/follow/soumyajit_devs?logo=twitter&style=for-the-badge" alt="soumyajit_devs" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyajit-chatterjee&show_icons=true&locale=en&theme=tokyonight" alt="soumyajit-chatterjee" /></p>
 
